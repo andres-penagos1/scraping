@@ -1,0 +1,7 @@
+pandas
+requests
+lxml
+IPyhton
+bs4
+BeautifulSoup
+selenium
